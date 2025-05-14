@@ -1,0 +1,19 @@
+.backcolor {
+    background-color: rgb(255,182,193);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#one {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.backcolor.fontplus {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
