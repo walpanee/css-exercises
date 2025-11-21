@@ -1,6 +1,7 @@
-.odd #text {
+.odd {
   background-color: pink;  
   font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+
 }
 
 .second {
@@ -8,3 +9,6 @@
     font-size: 36px;
 }
 
+#text {
+    font-size: 24px;
+}
